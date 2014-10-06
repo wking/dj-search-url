@@ -39,10 +39,6 @@ setup(
     author="Donald Stufft",
     author_email="donald.stufft@gmail.com",
 
-    extras_require={
-        "tests": ["pytest"],
-    },
-
     py_modules=["dj_search_url"],
     include_package_data=True,
 
