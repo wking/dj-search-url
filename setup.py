@@ -34,6 +34,7 @@ setup(
 
     description="Use Search URLs in your Django Haystack Application.",
     long_description=__doc__,
+    license='BSD 2-Clause',
     url="https://github.com/dstufft/dj-search-url",
 
     author="Donald Stufft",
